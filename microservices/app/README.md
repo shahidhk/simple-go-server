@@ -1,4 +1,4 @@
-# simple-go-server
+# go-simple-server 
 
 A simple golang web server with basic logging, tracing, health check, graceful shutdown and zero dependencies. This microservice is based on a [GitHub gist](https://gist.github.com/enricofoltran/10b4a980cd07cb02836f70a4ab3e72d7) by [enricofoltran](https://github.com/enricofoltran), featured on [HackerNews](https://news.ycombinator.com/item?id=16090977) which was later moved to [enricofoltran/simple-go-server](https://github.com/enricofoltran/simple-go-server).
 
